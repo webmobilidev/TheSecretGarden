@@ -8,43 +8,43 @@
     },
     "installed_plugins": {
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.thesecretgarden"
         }
     }
 }
